@@ -15,3 +15,9 @@ http://blog.csdn.net/slowlifes/article/details/64129582 --------OAuth2.0 知多�
 https://github.com/wanghongfei/spring-security-oauth2-example ------Spring Security OAuth2 Demo
 
 https://projects.spring.io/spring-security-oauth/docs/tutorial.html ---------spring Tutorial（官方教程）
+
+http://blog.csdn.net/seccloud/article/details/8192707   -------帮你深入理解OAuth2.0协议
+
+https://oauth.net/2/      -----OAuth 2.0
+
+http://www.zuidaima.com/share/3260612800646144.htm   -----Spring实现OAUTH2.0代码DEMO
