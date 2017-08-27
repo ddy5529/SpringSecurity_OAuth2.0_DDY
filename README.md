@@ -8,10 +8,10 @@
 
 以下是解析和Spring的官放demo
 
---------http://blog.sina.com.cn/s/blog_4adc4b090102uxrx.html--------(Oauth2.0 用Spring-security-oauth2 非常简单)
+http://blog.sina.com.cn/s/blog_4adc4b090102uxrx.html --------(Oauth2.0 用Spring-security-oauth2 非常简单)
 
-http://blog.csdn.net/slowlifes/article/details/64129582--------OAuth2.0 知多少
+http://blog.csdn.net/slowlifes/article/details/64129582 --------OAuth2.0 知多少
 
-https://github.com/wanghongfei/spring-security-oauth2-example------Spring Security OAuth2 Demo
+https://github.com/wanghongfei/spring-security-oauth2-example ------Spring Security OAuth2 Demo
 
-https://projects.spring.io/spring-security-oauth/docs/tutorial.html---------spring Tutorial（官方教程）
+https://projects.spring.io/spring-security-oauth/docs/tutorial.html ---------spring Tutorial（官方教程）
