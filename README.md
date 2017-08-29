@@ -21,3 +21,12 @@ http://blog.csdn.net/seccloud/article/details/8192707   -------帮你深入理�
 https://oauth.net/2/      -----OAuth 2.0
 
 http://www.zuidaima.com/share/3260612800646144.htm   -----Spring实现OAUTH2.0代码DEMO
+
+
+
+
+--------------------------------------------我是分割线-----------------------------------------------
+推荐工具：POSTMAN(用于发送HTTP请求，包含post,get,put等)  https://www.getpostman.com/
+
+
+
